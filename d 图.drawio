@@ -1,1 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T07:31:13.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" version="14.6.11" etag="-eFLpXDAfYSWSqPmZfyB" type="github"><diagram id="Ql_ih8SZnR9BFjuNmmua">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-11T15:31:02.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="2Q5CU5Qsc_Jyfm15Ln07" version="14.6.11" type="github">
+  <diagram id="Ql_ih8SZnR9BFjuNmmua" name="第 1 页">
+    <mxGraphModel dx="1483" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ICz2HNs54Su3hu_uOoFQ-1" target="ICz2HNs54Su3hu_uOoFQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ICz2HNs54Su3hu_uOoFQ-1" target="ICz2HNs54Su3hu_uOoFQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;登陆界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="80" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;新用户患者注册&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="80" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ICz2HNs54Su3hu_uOoFQ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="281" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;管理员&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ICz2HNs54Su3hu_uOoFQ-6" target="ICz2HNs54Su3hu_uOoFQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;医生&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2016px%26quot%3B%26gt%3B%E7%AE%A1%E7%90%86%E5%91%98%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22352%22%20y%3D%22220%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ICz2HNs54Su3hu_uOoFQ-7" target="ICz2HNs54Su3hu_uOoFQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;患者&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-8" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ICz2HNs54Su3hu_uOoFQ-6" target="ICz2HNs54Su3hu_uOoFQ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="302" y="300" as="sourcePoint" />
+            <mxPoint x="352" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-9" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ICz2HNs54Su3hu_uOoFQ-4" target="ICz2HNs54Su3hu_uOoFQ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="250" as="sourcePoint" />
+            <mxPoint x="530" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-10" value="&lt;span style=&quot;font-size: 16px&quot;&gt;诊&lt;br&gt;治&lt;br&gt;管&lt;br&gt;理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-12" value="&lt;span style=&quot;font-size: 16px&quot;&gt;留&lt;br&gt;言&lt;br&gt;管&lt;br&gt;理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="ICz2HNs54Su3hu_uOoFQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="290" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="250" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="320" as="sourcePoint" />
+            <mxPoint x="250" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-16" value="&lt;span style=&quot;font-size: 16px&quot;&gt;通&lt;br&gt;知&lt;br&gt;查&lt;br&gt;询&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-17" value="&lt;span style=&quot;font-size: 16px&quot;&gt;医&lt;br&gt;生&lt;br&gt;信&lt;br&gt;息&lt;br&gt;管&lt;br&gt;理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-18" value="&lt;span style=&quot;font-size: 16px&quot;&gt;药&lt;br&gt;品&lt;br&gt;管&lt;br&gt;理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="28" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-19" value="&lt;span style=&quot;font-size: 16px&quot;&gt;患&lt;br&gt;者&lt;br&gt;信&lt;br&gt;息&lt;br&gt;管&lt;br&gt;理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-20" value="&lt;span style=&quot;font-size: 16px&quot;&gt;诊&lt;br&gt;治&lt;br&gt;记&lt;br&gt;录&lt;br&gt;查&lt;br&gt;询&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-21" value="&lt;span style=&quot;font-size: 16px&quot;&gt;通&lt;br&gt;知&lt;br&gt;管&lt;br&gt;理&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+            <mxPoint x="510" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383.76" y="320" as="sourcePoint" />
+            <mxPoint x="383.76" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-26" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464.76" y="320" as="sourcePoint" />
+            <mxPoint x="464.76" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="320" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-28" value="&lt;span style=&quot;font-size: 16px&quot;&gt;在线挂号&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-30" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="627.76" y="320" as="sourcePoint" />
+            <mxPoint x="627.76" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-31" value="&lt;span style=&quot;font-size: 16px&quot;&gt;留言回复&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-32" value="&lt;span style=&quot;font-size: 16px&quot;&gt;查询医生信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-33" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICz2HNs54Su3hu_uOoFQ-34" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
